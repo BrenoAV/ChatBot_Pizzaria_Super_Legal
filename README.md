@@ -2,7 +2,7 @@
 
 👁👁 **Escopo:** Este projeto é parte do **desafio proposto** pela **Alura** com parceria com o **Google** na **Segunda Edição da Imersão de IA**.
 
-O **ChatBot Pizzaria Super Legal** 🍕😊👍 é um ChatBot que irá auxiliar o atendente a fazer um resumo dos pedidos realizado por clientes da pizzaria, agilizando o processo como todo. Para isso conta um sistema de texto e áudio, onde é possível fornecer um áudio informando seu pedido e a IA irá traduzir para texto e enviar para o atendente.
+O **ChatBot Pizzaria Super Legal** 🍕😊👍 é um ChatBot que irá auxiliar o atendente a fazer um resumo dos pedidos realizado por clientes da pizzaria, agilizando o processo como todo. Para isso conta com um sistema de texto e áudio, onde é possível fornecer um áudio informando seu pedido e a IA irá traduzir para texto e enviar para o atendente.
 
 ---
 
