@@ -8,20 +8,20 @@ O **ChatBot Pizzaria Super Legal** 🍕😊👍 é um ChatBot que irá auxiliar 
 
 ## Texto
 
-![Exemplo da utilização de texto no ChatBot Pizzaria](imgs\example-text.png)
+![Exemplo da utilização de texto no ChatBot Pizzaria](imgs/example-text.png)
 
 ---
 
 ## Áudio
 
-![Exemplo da utilização de um áudio no ChatBot Pizzaria](imgs\example-audio.png)
+![Exemplo da utilização de um áudio no ChatBot Pizzaria](imgs/example-audio.png)
 
 
 # 🛠 Configuração
 
 1. Obtenha usa API KEY do Google Gemini e adicione como Secrets no Google Colab:
 
-![API Key no Secrets do Google Colab](imgs\secret-api-key.png)
+![API Key no Secrets do Google Colab](imgs/secret-api-key.png)
 
 Note: tutorial ensinando como gerar &rarr; [https://www.geminiforwork.com/setup-api-keys/create-geminiai-api-key/](https://www.geminiforwork.com/setup-api-keys/create-geminiai-api-key/)
 
